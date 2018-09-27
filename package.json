@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "prop-types": "^15.6.1",
-    "react-native-animatable": "^1.2.4"
+    "react-native-animatable": "git://github.com/chaseholland/react-native-animatable.git#7d330b56693067d55cbf8ffc68a05712ef518e34"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",
